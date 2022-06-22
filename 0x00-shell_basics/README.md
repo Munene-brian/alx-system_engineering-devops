@@ -1,1 +1,1 @@
-script to show path of current directory
+SCRIPT TO SHOW HIDDEN FILE IN DIR
