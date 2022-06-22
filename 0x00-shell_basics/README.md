@@ -1,1 +1,1 @@
-SCRIPT TO SHOW HIDDEN FILE IN DIR
+long format with user, groupid
