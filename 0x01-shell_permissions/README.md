@@ -1,1 +1,1 @@
-User betty switch 
+Whoami user
