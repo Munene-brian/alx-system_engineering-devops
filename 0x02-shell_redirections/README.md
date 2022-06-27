@@ -1,1 +1,1 @@
-Script to display hello
+Smiley display
